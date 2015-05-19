@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<suite version="10" descriptor="Media Suite File">
+<suite version="11" descriptor="Media Suite File">
   <media path="../../commcare/image/data">
     <resource descriptor="Image File: question1.gif" id="media-837016092e1c81c173c66e90192cb603-question1.gif" version="8">
       <location authority="local">./commcare/image/data/question1.gif</location>

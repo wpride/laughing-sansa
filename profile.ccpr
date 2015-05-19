@@ -94,7 +94,7 @@
         <location authority="remote">https://www.commcarehq.org/a/willslearningproject/apps/download/976fd9d8dcf94dcc48f18e2c16221ce7/suite.xml</location>
     </resource></suite>
     
-    <suite><resource id="media-suite" version="10">
+    <suite><resource id="media-suite" version="11">
         
             <location authority="local">./media_suite.xml</location>
         
